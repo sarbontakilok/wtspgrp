@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wtsp/static/css/main.d549dd25.css",
+    "main.js": "/wtsp/static/js/main.0815a094.js",
+    "index.html": "/wtsp/index.html",
+    "main.d549dd25.css.map": "/wtsp/static/css/main.d549dd25.css.map",
+    "main.0815a094.js.map": "/wtsp/static/js/main.0815a094.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d549dd25.css",
+    "static/js/main.0815a094.js"
+  ]
+}
